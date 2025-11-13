@@ -1,0 +1,4 @@
+a_1, b_1, c_1 = map(int, input("nhập điểm hệ số 1").split())
+a_2, b_2 = map(int, input("nhập điểm hệ số 2").split())
+a_3 = map(int, input("nhập điểm hệ số 3").split())
+diem_trung_binh = 
