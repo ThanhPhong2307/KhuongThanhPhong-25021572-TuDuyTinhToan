@@ -1,4 +1,3 @@
-import pygame
-import chess
-board = chess.Board()
-print(board)
+count = 0
+for _ in range(5):
+    count += 1
